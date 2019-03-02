@@ -13,8 +13,8 @@
 10. 我要祈求指导，以一个推销员的身份来祈祷。 `I will pray for guidance, and I will pray as a salesman.` 
 <table>
   <tr>
-    <th>![nav](images/nav.png)</th>
-    <th>![one](images/one.png)</th>
+    <th>![nav](https://github.com/zangke/scroll/blob/master/images/nav.png?raw=true)</th>
+    <th>![one](https://github.com/zangke/scroll/blob/master/images/one.png?raw=true)</th>
   </tr>
 </table>
  
