@@ -11,11 +11,8 @@
 8. 今天我要加倍重视自己的价值。`Today I will multiply my value a hundredfold.`
 9. 我现在就付诸行动。`I will act now.`
 10. 我要祈求指导，以一个推销员的身份来祈祷。 `I will pray for guidance, and I will pray as a salesman.` 
+
 ![nav](./images/nav.png)
-<table>
-  <tr>
-    <th>![nav](raw/master/images/nav.png)</th>
-    <th>![one](https://github.com/zangke/scroll/blob/master/images/one.png?raw=true)</th>
-  </tr>
-</table>
+![nav](./images/one.png)
+
  
