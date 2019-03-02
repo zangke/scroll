@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">羊皮卷</string>
+    <string name="user_name">zangke168@foxmail.com</string>
+    <string name="nav_two">实践</string>
+    <string name="nav_help">帮助</string>
+    <string name="nav_feedback">反馈</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <string name="nav_one">羊皮卷</string>
+    <string name="settle">设置</string>
+    <string name="isTextToSpeech">是否语音朗读</string>
+    <string name="circulateNext">循环播放</string>
+    <string name="txtSpeechRate">语音播放速度</string>
+    <string name="firstWord">第一个字</string>
+    <string name="previousWord">前一字</string>
+    <string name="nextWord">下一字</string>
+    <string name="lastWord">最后一字</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+</resources>
